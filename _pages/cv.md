@@ -68,15 +68,15 @@ Publications
 
 Patents
 ======
-[**P1**] Jiadi Yu, **Xiangy Xu**. 基于振动信号的智能终端触碰认证方法及系统. 2019105831358. 2020.
+[**P1**] Jiadi Yu, **Xiangyu Xu**. 基于振动信号的智能终端触碰认证方法及系统. 2019105831358. 2020.
 
-[**P2**] Jiadi Yu, **Xiangy Xu**. 基于移动终端音频的驾驶员细粒度呼吸监测方法及系统. 2018105812969. 2019.
+[**P2**] Jiadi Yu, **Xiangyu Xu**. 基于移动终端音频的驾驶员细粒度呼吸监测方法及系统. 2018105812969. 2019.
 
-[**P3**] Jiadi Yu, **Xiangy Xu**. 基于智能移动终端音频装置的车辆方向盘转动追踪方法及系统. 2017109526586. 2018.
+[**P3**] Jiadi Yu, **Xiangyu Xu**. 基于智能移动终端音频装置的车辆方向盘转动追踪方法及系统. 2017109526586. 2018.
 
-[**P4**] Jiadi Yu, Guanchen Liang, Li lu, **Xiangy Xu**. 用于手部可穿戴设备的基于直拳动作检测的用户认证方法. 2017103282963. 2018.
+[**P4**] Jiadi Yu, Guanchen Liang, Li lu, **Xiangyu Xu**. 用于手部可穿戴设备的基于直拳动作检测的用户认证方法. 2017103282963. 2018.
 
-[**P5**] Jiadi Yu, **Xiangy Xu**, Yanmin Zhu, Minglu Li. 驾驶员危险行为识别方法及系统. 2016111167892. 2017. 
+[**P5**] Jiadi Yu, **Xiangyu Xu**, Yanmin Zhu, Minglu Li. 驾驶员危险行为识别方法及系统. 2016111167892. 2017. 
 
 Awards
 ======
