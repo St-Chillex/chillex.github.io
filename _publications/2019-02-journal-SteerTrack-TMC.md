@@ -3,7 +3,7 @@ title: "Leveraging Acoustic Signals for Vehicle Steering Tracking with Smartphon
 collection: publications
 catogories: 
     - journal
-permalink: /publication/2019-01-journal-LipPass-TON
+permalink: /publication/2019-02-journal-SteerTrack-TMC
 #excerpt: ''
 date: 2019-02-18
 venue: 'IEEE Transactions on Mobile Computing'
