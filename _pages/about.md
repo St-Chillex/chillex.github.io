@@ -23,9 +23,9 @@ His research interests include **mobile sensing & computing**, **human-machine i
 
 News
 ======
-[October 2020] Our paper **"HVAC: Evading Classifier-based Defenses in Hidden Voice Attacks"** has been accepted to **ACM AsiaCCS 2021** (Acceptance rate: 18.5%)! 
+[October 2020] Our paper **"HVAC: Evading Classifier-based Defenses in Hidden Voice Attacks"** has been accepted to **ACM AsiaCCS 2021 (Acceptance rate: 18.5%)**! 
 
-[October 2020] Received "Ph.D. Scholarship for Overseas Alumni" at Shanghai Jiao Tong University.
+[October 2020] Received **"Ph.D. Scholarship for Overseas Alumni"** at Shanghai Jiao Tong University.
 
 [July 2020] Our paper **"Leveraging Acoustic Signals for Fine-grained Breathing Monitoring in Driving Environments"** has been accepted to **IEEE Transactions on Mobile Computing**.
 
