@@ -3,7 +3,7 @@ title: "Leveraging Acoustic Signals for Fine-grained Breathing Monitoring in Dri
 collection: publications
 catogories: 
     - journal
-permalink: /publication/2020-07-journal-BreathListener-TMC
+permalink: /publication/2020-08-journal-BreathListener-TMC
 #excerpt: ''
 date: 2020-08-11
 venue: 'IEEE Transactions on Mobile Computing'
