@@ -92,11 +92,6 @@ Professional Services
 * Co-Reviewer: IEEE Transactions on Networking; IEEE Transactions on Mobile Computing; IEEE Transactions on Vehicular Technology; IEEE Transactions on Dependable and Secure Computing; ACM MobiCom; ACM Sensys; IEEE ICPADS; IEEE InfoCom; ACM WiSec, etc. 
 * Student Member: China Computer Federation ([CCF](https://www.ccf.org.cn/)); Institute of Electrical and Electronics Engineers ([IEEE](https://www.ieee.org)); Association of Computing Machinery ([ACM](https://www.acm.org/))
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
   
   
