@@ -9,17 +9,16 @@ I have served for many professional activities.
 Co-reviewer
 ======
 * Journal
-  * IEEE Transactions on Parallel and Distributed Systems
-  * IEEE Transactions on Industrial Informatics
-  * ACM Transactions on Privacy and Security
-  * IEEE Transactions on Network and Service Management
-  * Journal of Computer Security
+  * IEEE Transactions on Networking
+  * IEEE Transactions on Mobile Computing
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Transactions on Dependable and Secure Computing  
 
 * International Conference
   * IEEE International Conference on Computer Communications (IEEE INFOCOM)
+  * ACM International Conference on Mobile Computing and Networking (ACM MobiCom)
   * ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys)
-  * ACM International Conference on Computer and Communications Security (ACM CCS)
-  * IEEE International Conference on Pervasive Computing and Communications (IEEE PerCom)
+  * ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec)
   * IEEE International Conference on Parallel and Distributed Systems (IEEE ICPADS)
   * IEEE International Symposium on Dynamic Spectrum Access Networks (IEEE DySPAN)
 
