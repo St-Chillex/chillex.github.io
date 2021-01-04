@@ -1,14 +1,16 @@
 ---
-title: "VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals"
+title: "ER: Early Recognition of Inattentive Driving Leveraging Audio Devices on Smartphones"
 collection: publications
 catogories: 
     - conference
-permalink: /publication/2018-12-conference-Vpad-ICPADS
+permalink: /publication/2017-05-conference-ER-InfoCom
 #excerpt: ''
-date: 2018-12-13
-venue: 'IEEE 24th International Conference on Parallel and Distributed Systems (ICPADS)'
-citation: 'Li Lu, Jian Liu, Jiadi Yu, Yingying Chen, Yanmin Zhu, <b>Xiangyu Xu</b>, Minglu  Li. &quot; VPad: Virtual Writing Tablet for Laptops Leveraging Acoustic Signals.&quot; <i>Proceedings of  IEEE Conference on Parallel and Distributed Systems (ICPADS)</i>. Singapore, USA. 2018. doi: 10.1109/PADSW.2018.8644615.'
+date: 2017-05-04
+venue: 'IEEE Conference on Computer Communications (IEEE InfoCom)'
+citation: '<b>Xiangyu Xu</b>, Hang Gao, Jiadi Yu, Yingying Chen, Yanmin Zhu, Guangtao Xue, Minglu Li. &quot;ER: Early Recognition of Inattentive Driving Leveraging Audio Devices on Smartphones.&quot; <i>Proceedings of  IEEE Conference on Computer Communications (InfoCom)</i>. Atlanta, GA, USA. 2017. doi: 10.1109/INFOCOM.2017.8057022.'
 ---
 
-[View the full paper](https://ieeexplore.ieee.org/document/8644615)
+[View the full paper](https://ieeexplore.ieee.org/document/8057022)
+
+
 
