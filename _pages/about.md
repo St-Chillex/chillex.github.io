@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently hunting for faculty positions and industry research jobs, please feel free to contact me.
+I am currently hunting for faculty positions and also industry research jobs, please feel free to contact me.
 ======
 
 Brief Biography
