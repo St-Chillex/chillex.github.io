@@ -4,8 +4,11 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Professional Activities"
-    url: /professional-activities/    
+  - title: "Patents"
+    url: /patents/    
+    
+  - title: "Awards"
+    url: /awards/  
     
   - title: "CV"
     url: /cv/
