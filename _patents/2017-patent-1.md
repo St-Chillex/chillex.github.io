@@ -1,12 +1,12 @@
 ---
-title: "基于智能终端的声音装置进行唇读的用户认证方法及系统"
+title: "驾驶员危险行为识别方法及系统"
 collection: patents
 permalink: /patents/2017-patent-1
 #excerpt: ''
-date: 2018-10-26
-#venue: 'Conference on Advanced Computer Architecture (ACA 2016)'
-#paperurl: 'http://lynnlilu.github.io/files/ACA16.pdf'
-citation: 'Jiadi Yu, <b>Li Lu</b>. &quot;基于智能终端的声音装置进行唇读的用户认证方法及系统.&quot; <i>ZL201710952236.9</i>. 2018. P.R.China.'
+date: 2017-05-10
+citation: 'Jiadi Yu, <b>Xiangyu Xu</b>. &quot;驾驶员危险行为识别方法及系统.&quot; <i>ZL201611116789.2</i>. 2017. P.R.China.'
+
+{% include base_path %}
+[View the full patent](https://ShawnnXu.github.io/files/2017-patent-1.pdf)
 ---
 
-I am the first student inventor and the major contributor of this patent.
