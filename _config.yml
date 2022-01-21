@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangyu Xu (徐翔宇)"
   avatar           : "profile.jpg"
-  bio              : "Associate Research Professor (副研究员)"
+  bio              : "Associate Research Professor"
   location         : "Nanjing, China"
   employer         : "Southeast University"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=QZbKVNoAAAAJ"
@@ -179,9 +179,9 @@ collections:
   patents:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,13 +210,13 @@ defaults:
       author_profile: true
       share: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 # Sass/SCSS
 sass:
